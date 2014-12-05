@@ -1,0 +1,4 @@
+SKB Composite
+-------------
+
+Base clases for an implementation of the composite pattern, plus special objects (such as Null, Error, Success).
