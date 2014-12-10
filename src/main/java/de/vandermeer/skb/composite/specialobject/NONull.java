@@ -26,7 +26,7 @@ import de.vandermeer.skb.composite.SpecialObjectTypes;
  * this type should only be used to express a 'null' result, but not to identify a specific 'null' result.
  * 
  * @author     Sven van der Meer &lt;vdmeer.sven@mykolab.com&gt;
- * @version    v0.0.2 build 140626 (26-Jun-14) with Java 1.8
+ * @version    v0.0.3-SNAPSHOT build 141210 (10-Dec-14) for Java 1.8
  */
 public enum NONull implements NullObject {
 	/** The only instance for SkbTypeDefNull */

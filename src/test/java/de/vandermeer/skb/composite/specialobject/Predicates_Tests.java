@@ -32,7 +32,7 @@ import de.vandermeer.skb.composite.specialobject.SOWarning;
  * Tests for Predicates.
  *
  * @author     Sven van der Meer &lt;vdmeer.sven@mykolab.com&gt;
- * @version    v0.0.2 build 140626 (26-Jun-14) with Java 1.8
+ * @version    v0.0.3-SNAPSHOT build 141210 (10-Dec-14) for Java 1.8
  */
 @RunWith(JUnit4.class)
 public class Predicates_Tests {
