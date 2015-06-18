@@ -27,7 +27,7 @@ import de.vandermeer.skb.composite.SpecialObjectTypes;
  * descriptions about things that have been noticeable, as compared to a boolean return or a single info message or a thrown exception.
  *
  * @author     Sven van der Meer &lt;vdmeer.sven@mykolab.com&gt;
- * @version    v0.0.3-SNAPSHOT build 141210 (10-Dec-14) for Java 1.8
+ * @version    v0.0.3 build 150618 (18-Jun-15) for Java 1.8
  */
 public final class SOInfo extends SOObject {
 	/**
