@@ -35,7 +35,7 @@ import de.vandermeer.skb.composite.specialobject.SOWarning;
  * @version    v0.0.4-SNAPSHOT build 150618 (18-Jun-15) for Java 1.8
  */
 @RunWith(JUnit4.class)
-public class Predicates_Tests {
+public class Test_Predicates {
 
 	@Test public void testIsSubClassOf(){
 		SOError serr=new SOError();
