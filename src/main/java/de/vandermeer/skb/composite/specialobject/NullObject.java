@@ -22,7 +22,7 @@ import de.vandermeer.skb.composite.SpecialObject;
  * Its only reason to exist is to collect all null objects in the class hierarchy.
  *
  * @author     Sven van der Meer &lt;vdmeer.sven@mykolab.com&gt;
- * @version    v0.0.4-SNAPSHOT build 150618 (18-Jun-15) for Java 1.8
+ * @version    v0.0.4 build 150619 (19-Jun-15) for Java 1.8
  */
 public interface NullObject extends SpecialObject {
 
